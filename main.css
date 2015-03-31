@@ -1,0 +1,45 @@
+#diction {
+	font-family: "標楷體";
+	border: 2px solid #9E774C;
+	height: 60%;
+	-webkit-writing-mode: vertical-rl; 
+	writing-mode: vertical-rl;
+	padding-bottom: 10px;
+	margin-right: 100px;
+	margin-top: 0;
+	font-size: 20px;
+	float: none;
+	display: inline;
+	line-height: 1.2em;
+}
+#ci{
+	margin-bottom: 0.5em;
+	border-left: 2px solid #9E774C;
+	border-bottom: 2px solid #9E774C;
+	display: inline-block;
+	float: left;
+}
+#danzi{
+	font-size: 40px;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
+	margin-right: 0 ;
+	border-right: 2px solid #9E774C;
+	line-height: 1.2em;
+}
+#zhuyin{
+	font-size: 14px;
+	padding-top: 0.3em;
+	padding-bottom: 0.2em;
+}
+#discription{
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.gaozhi{
+	border-top: 2px solid #9E774C;
+	border-left: 2px solid #9E774C;
+	margin: 0 0 0 0;
+}
