@@ -1,15 +1,27 @@
+#bokx{
+	margin-left: auto;
+    margin-right: auto;
+
+	text-align: center;
+}
+
+h2{ 
+	line-height: 2.0em;
+	text-align: center;
+}
 #diction {
+
 	font-family: "標楷體";
 	border: 2px solid #9E774C;
-	height: 60%;
+	height: 300px;
+	width: 300px;
 	-webkit-writing-mode: vertical-rl; 
 	writing-mode: vertical-rl;
 	padding-bottom: 10px;
-	margin-right: 100px;
+	margin-left: auto;
+    margin-right: auto;
 	margin-top: 0;
 	font-size: 20px;
-	float: none;
-	display: inline;
 	line-height: 1.2em;
 }
 #ci{
@@ -43,3 +55,5 @@
 	border-left: 2px solid #9E774C;
 	margin: 0 0 0 0;
 }
+
+
